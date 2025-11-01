@@ -15,9 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/Telegram-Userbot-29b5274bd2cf8071964dea517d891cbe?source=copy_link
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
-
+1. 你的 Telegram 用户名 = @kooal111
+2. 你的主网 TON 钱包地址 = UQAjKYAsbCbskV_DlGpaQtPpBv78Bo0iITVtAlvD1IU01kDa
 
 ## 任务 1：Telegram Userbot 案例
 ### 任务描述：
@@ -27,7 +26,7 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 你的 Python 代码文件名= ？
+1. 你的 Python 代码文件名= group_stats.py
 
 
 
