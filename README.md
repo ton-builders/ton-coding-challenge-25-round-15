@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/Telegram-Userbot-29b5274bd2cf8071964dea517d891cbe?source=copy_link
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = @lalyougift
-2. 你的主网 TON 钱包地址 = UQDkSJQ5Pv0-GZoVb4PccNuWXciRsBLSvXJjwhPQ_mXObdSO
+1. 你的 Telegram 用户名 =  @ejjkdkde
+2. 你的主网 TON 钱包地址 = UQD6bEj11xfAn7XO6y75H7cX_I5-gfyrx3LT4kWl05t8QlwT
 
 
 ## 任务 1：Telegram Userbot 案例
